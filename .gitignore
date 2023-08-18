@@ -23,4 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
+
+src/services/c.ts
+src/services/ap.ts
 src/services/api-client.ts

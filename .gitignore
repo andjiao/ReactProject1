@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 
-src/services/a
+src/services/b.ts
